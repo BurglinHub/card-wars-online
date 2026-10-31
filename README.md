@@ -9,6 +9,7 @@ A free browser tabletop prototype generated from the Tabletop Simulator save sup
 - Rooms for up to 8 players; share a six-character code.
 - Each player can select and shuffle a deck, draw privately, play/discard cards, flip cards face down, keep a score, and pass the turn.
 - Responsive layout for desktop and mobile browsers.
+- `rules.html`: Russian paraphrase of the core rules with links to the original 2013 rulebook.
 
 ## Run locally
 
